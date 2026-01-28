@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Otiel-Sun/jiaqi_sun.github.io",
+    "data-repo": "Otiel-Sun/Otiel-Sun.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
